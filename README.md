@@ -50,6 +50,6 @@ The dataset used in this project comprises tweets collected from Twitter's API u
    - Fine-tune the model further if necessary based on the testing results to improve its performance.
 
 ### Contributors:
-- Riyad Ahmadov
+- Riyad Ahmadov (Data Scientist / Data Analyst)
 
 ## Conclusion: Karabakh is Azerbaijan Forever !!!
