@@ -1,6 +1,6 @@
 # NLP KARABAKH War Review In Twitter
 
-['NLP Review in Python'](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79592twitter.jpg)
+![NLP Review in Python](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79592twitter.jpg)
 
 **Project Title: NLP Analysis of Twitter Data on the Nagorno-Karabakh War**
 
